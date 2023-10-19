@@ -1,5 +1,5 @@
 {
-    "name": "wuwx/laravel-hashing-md5",
+    "name": "drice82/laravel-hashing-md5",
     "type": "library",
     "keywords": ["laravel", "hashing", "md5", "hasher"],
     "license": "MIT",
