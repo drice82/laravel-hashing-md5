@@ -3,7 +3,7 @@
 
 ## 安装
 
-composer require wuwx/laravel-hashing-md5
+composer require drice82/laravel-hashing-md5
 
 ## 配置
 
@@ -12,7 +12,7 @@ composer require wuwx/laravel-hashing-md5
 ## Installation
 Add the package with composer.
 ```
-composer require wuwx/laravel-hashing-md5
+composer require drice82/laravel-hashing-md5
 ```
 Edit hashing.php inside configuration file
 ```
